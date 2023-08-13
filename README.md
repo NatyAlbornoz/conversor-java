@@ -12,30 +12,28 @@ Este es un proyecto que implementa un conversor de divisas y temperaturas en Jav
 
 ## Capturas de Pantalla
 
+### Pantalla Principal
+
 ![Pantalla Inicial](screenshots/conversor1.png)
-*Captura de la pantalla principal*
 
 ![Pantalla Inicial](screenshots/conversor2.png)
-*Captura de la pantalla principal*
+
+
+### Conversor de Divisas
 
 ![Conversor de Divisas](screenshots/conversor3.png)
-*Captura de pantalla del Conversor de Divisas*
+
 
 ![Conversor de Divisas](screenshots/conversor4.png)
-*Captura de pantalla del Conversor de Divisas*
 
 ![Conversor de Divisas](screenshots/conversor5.png)
-*Captura de pantalla del Conversor de Divisas*
 
+### Conversor de Temperatura
 ![Conversor de Temperatura](screenshots/conversor6.png)
-*Captura de pantalla del Conversor de Temperatura*
 
 ![Conversor de Temperatura](screenshots/conversor7.png)
-*Captura de pantalla del Conversor de Temperatura*
-
 
 ![Conversor de Temperatura](screenshots/conversor8.png)
-*Captura de pantalla del Conversor de Temperatura*
 
 ## Uso
 
@@ -43,3 +41,11 @@ Este es un proyecto que implementa un conversor de divisas y temperaturas en Jav
 2. Elige entre "Conversor de Divisas" o "Conversor de Temperatura".
 3. En la interfaz gráfica ingresa las cantidades y selecciona las unidades de conversión.
 4. Haz clic en el botón "Convertir" para obtener los resultados o en el botón "Volver" para retornar a la pantalla principal.
+
+## Autores
+
+* **Natalia Albornoz** - _Autor principal_ - [NatyAlbornoz](https://github.com/NatyAlbornoz)
+
+## Créditos
+
+-Para el conversor de divisas, se utiliza la API de cambio.today, disponible en https://cambio.today/api (Última actualización: 2020-11-28).
